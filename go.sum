@@ -2,5 +2,6 @@ github.com/golang-jwt/jwt/v5 v5.3.1 h1:kYf81DTWFe7t+1VvL7eS+jKFVWaUnK9cB1qbwn63Y
 github.com/golang-jwt/jwt/v5 v5.3.1/go.mod h1:fxCRLWMO43lRc8nhHWY6LGqRcf+1gQWArsqaEUEa5bE=
 github.com/jferrl/go-githubauth v1.9.1 h1:gDBgNgPxU4gL0yWKf6FOwKCdLb3ICHPVMQrPEq+xq0I=
 github.com/jferrl/go-githubauth v1.9.1/go.mod h1:HkuzaWMeDf+S09Dq/5wlBwPeho9ZZm3MixLdD2WTqO0=
+github.com/jferrl/go-githubauth/v2 v2.0.1/go.mod h1:2yioYoBdTgZBwJiAFGXMirzyFEw+WJW/CR9ykaGdmUw=
 golang.org/x/oauth2 v0.37.0 h1:JUlcxA8oAtauLfiH8FX2/FkAWHAdi0QtGCGc+hofE98=
 golang.org/x/oauth2 v0.37.0/go.mod h1:IxwZNxUULJmpBFf9K/9NTMSIfZZuvuTy1gGxhigP/58=
